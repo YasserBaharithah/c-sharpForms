@@ -1,0 +1,17 @@
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\bin\Debug\practice_Forms2.exe.config
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\bin\Debug\practice_Forms2.exe
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\bin\Debug\practice_Forms2.pdb
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\obj\Debug\practice_Forms2.csproj.AssemblyReference.cache
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\obj\Debug\practice_Forms2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\obj\Debug\practice_Forms2.Form1.resources
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\obj\Debug\practice_Forms2.Properties.Resources.resources
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\obj\Debug\practice_Forms2.csproj.GenerateResource.cache
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\obj\Debug\practice_Forms2.csproj.CoreCompileInputs.cache
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\obj\Debug\practice_Forms2.exe
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\obj\Debug\practice_Forms2.pdb
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\obj\Debug\practice_Forms2.Form2.resources
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\bin\Debug\practice_Forms2.exe.manifest
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\bin\Debug\practice_Forms2.application
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\obj\Debug\practice_Forms2.TrustInfo.xml
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\obj\Debug\practice_Forms2.exe.manifest
+C:\Users\user009\source\repos\practice_Forms2\practice_Forms2\obj\Debug\practice_Forms2.application
